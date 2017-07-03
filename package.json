@@ -1,0 +1,22 @@
+{
+  "name": "tdd-sample",
+  "version": "1.0.0",
+  "description": "sample tdd",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "TDD",
+    "javascript"
+  ],
+  "author": "Tony MTH",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
